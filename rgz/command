@@ -1,0 +1,3 @@
+python train.py
+
+python play.py --model best_model.pth --speed 60
